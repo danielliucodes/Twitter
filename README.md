@@ -31,6 +31,6 @@ Walkthrough of all user stories:
 
 ![Video Walkthrough](VideoWalkthrough.gif)
 
-We start already signed in to show the persisted timeline. Then we tap on a specific tweet to see its details, and like/unlike and retweet/unretweet. We then post a new Tweet and it reflects in the timeline. Finally we logout/login and we see the mentioned API rate limit issue.
+We start already signed in to show the persisted timeline. Then we tap on a specific tweet to see its details, and we reply, like/unlike, and retweet/unretweet. We then post a new Tweet and it reflects in the timeline. Finally we logout/login and we see the mentioned API rate limit issue.
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
